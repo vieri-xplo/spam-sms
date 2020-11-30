@@ -3,7 +3,7 @@
 Tutorial:
 <pre><code>
 apt update && apt upgrade
-pkg update
+pkg install git
 pkg install python
 git clone https://github.com/vieri-xplo/spam-sms
 cd spam-sms

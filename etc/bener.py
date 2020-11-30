@@ -12,7 +12,7 @@ def bnr():
        {anj}╠═╣│  │{im}    {anj}╠╣ │ │├┬┘  {im}║ ║│││├┤ 
        {im}╩ ╩┴─┘┴─┘{anj}  {im}╚  └─┘┴└─  {anj}╚═╝┘└┘└─┘
 {im}••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
-{kun}[$] Author : {kin}aX-Vieri
+{kun}[$] Author : {kin}X-Vieri
 {kun}[$] Nama SC : {kin}Spam All
 {kun}[$] Github : {kin}https://github.com/vieri-xplo
 {kun}[$] Email : {kin}vieri9921@gmail.com

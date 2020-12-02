@@ -1,4 +1,4 @@
-# Semoga, allah, melaknat orang-orang yang suka rekod sc orang, aamiin
+#cuma record dari sc orang
 import threading, os, sys, json, time
 from bs4 import BeautifulSoup as bs
 import requests as ru
@@ -15,15 +15,15 @@ class main:
    bnr()
    main.start()
   elif (hyu == '2') or (hyu == '02'):
-   os.system("xdg-open https://chat.whatsapp.com/LqEGHqFtQBwLEUbemADmTk")
+   os.system("xdg-open http://Wa.me/6281328491462")
    main.main()
   elif (hyu == '3') or (hyu == '03'):
    os.system("clear")
    bnr()
    print (f"          {tot}TENTANG TOOL INI{sop}   ")
    print (f"""
-{kan}Tools spam all for one adalah {kon}spam brutal (sms, wa, call) yang dibuat untuk menjahili teman kalian
-{kan}Bantu terus admin mengembangkan tools ini, dengan cara tidak merecode sc ini 'v'""")
+{kan}Tools spam yang mempunyai fitur (sms, wa, call)
+{kan}Bantu terus admin mengembangkan tools ini:v""")
    os.system("python brutal.py")
   elif (hyu == '4') or (hyu == '04'):
    os.system("git pull")
